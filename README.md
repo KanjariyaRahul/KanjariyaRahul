@@ -35,11 +35,6 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kanjariyarahul&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=KanjariyaRahul&show_icons=true&theme=dark&locale=en" alt="KanjariyaRahul" /></td>
@@ -49,4 +44,7 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanjariyaRahul&theme=dark" alt="KanjariyaRahul" /></p>
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kanjariyarahul&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   </div>
