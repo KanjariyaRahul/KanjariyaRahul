@@ -19,7 +19,7 @@ As a frontend Devloper, I enjoy using my obsessive attention to detail, my unequ
 - <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: rahulkanjariya9265@gmail.com;
-- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume]([https://gkassym.netlify.app/Resume.pdf](https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/Resume%20.pdf)).
+- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume]([https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/Resume%20.pdf]).
 - 🌱 Learning Never Stops 🚀
 
 <h3 align="left">Web Tech Stack :</h3>
