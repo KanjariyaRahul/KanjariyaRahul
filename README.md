@@ -11,29 +11,16 @@ I am a Ux/Ui and ForntEnd Devloper. I love programming,and traveling.
 
 As a frontend Devloper, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/coding.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
-
-</br>
-
-
+- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: rahulkanjariya9265@gmail.com;
+- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
 - 🌱 Learning Never Stops 🚀
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rahulkanjariya9265@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/rk_ui_ux/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- 
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -60,14 +47,14 @@ As a frontend Devloper, I enjoy using my obsessive attention to detail, my unequ
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=KanjariyaRahul&show_icons=true&theme=dark&locale=en" alt="KanjariyaRahul" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KanjariyaRahul&show_icons=true&theme=dark&locale=en&layout=compact" alt="KanjariyaRahul" /></td>
-  </tr>
-</table>
+📈 **My GitHub Stats:**
 
-<div align="center">
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanjariyarahul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanjariyarahul&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+  
+<div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanjariyaRahul&theme=dark" alt="KanjariyaRahul" /></p>
 
   ## 🏆 GitHub Trophies
