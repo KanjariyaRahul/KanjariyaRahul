@@ -56,6 +56,9 @@ As a frontend Devloper, I enjoy using my obsessive attention to detail, my unequ
   
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanjariyaRahul&theme=dark" alt="KanjariyaRahul" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanjariyarahul&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+</p>
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kanjariyarahul&theme=radical&no-frame=false&no-bg=false&margin-w=4)
