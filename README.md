@@ -7,9 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rahulkanjariya9265@gmail.com)
 
 
-I am a Ux/Ui and ForntEnd Devloper. I love programming,and traveling.
+I am a Ux/Ui and F Web Developer. I love programming,and traveling.
 
-As a frontend Devloper, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a Web Devloper, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/coding.gif" width="408" height="318" />
   
